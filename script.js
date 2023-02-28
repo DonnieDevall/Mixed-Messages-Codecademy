@@ -4,7 +4,7 @@ function randNumberGen(num) {
 
 const treasureRewards = {
     weaponItem: ['Common Sword', 'Common Bow', 'Common Axe', 'Common Dagger', 'Rare Sword', 'Rare Bow', 'Rare Axe', 'Rare Dagger', 'Legendary Sword', 'Legendary Bow', 'Legendary Axe', 'Legendary Dagger'],
-    junkItem: ['An old sponge', "John's diary", 'The Legendary Donkey Statue', 'Grandmas Wooden Spoon'],
+    junkItem: ['An old sponge', "John's diary", 'The Legendary Donkey Statue', 'Grandmas Wooden Spoon', 'White Plate', 'Fire Orb', 'Suspicious Mushroom'],
 }
 
 let messageBuilder = ['You have acquired the following items!',]
